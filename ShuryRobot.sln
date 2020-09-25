@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ShuryRobot", "PythonApplication1\ShuryRobot.pyproj", "{8F4DC2DD-EE7E-4016-AC17-2D3A55611E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4DC2DD-EE7E-4016-AC17-2D3A55611E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4DC2DD-EE7E-4016-AC17-2D3A55611E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12304AE-F95F-46CB-A1D1-8DB395014E5F}
+	EndGlobalSection
+EndGlobal
